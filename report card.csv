@@ -1,0 +1,6 @@
+,student_names,physics_grade,chemistry_grades,math_grades,biology_grade,total_grade,status,average_grade,Grade
+0,Vanshika,34,100,56,45,235,Pass,58.75,C
+1,Vivaan,45,78,76,56,255,Pass,63.75,C
+2,Siddhant,56,0,34,34,124,Fail,31.0,A
+3,Mitansh,78,45,23,67,213,Pass,53.25,C
+4,Kareena,100,98,97,77,372,Pass,93.0,A
